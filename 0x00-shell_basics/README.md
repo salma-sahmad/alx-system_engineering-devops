@@ -1,1 +1,1 @@
-redme file for shell
+readme for shell
